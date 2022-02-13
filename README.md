@@ -25,8 +25,8 @@ streamlit run main.py
 
 #### Dashboard Example: 
 Click [Here](https://share.streamlit.io/ronald55/vlook-up-with-streamlit-and-pandas/main/main.py) to view the demo
-<p float="left">
-  <img src="./components/img/image_1.png" width="600" />
-    <img src="./components/img/image_2.png" width="600" />
-<img src="./components/img/image_3.png" width="600" />
-</p>
+
+![Dashboard](components/img/image_1.png "Web Scrapping Dashboard")
+![Dashboard](components/img/image_2.png "Web Scrapping Dashboard")
+![Dashboard](components/img/image_3.png "Web Scrapping Dashboard")
+
