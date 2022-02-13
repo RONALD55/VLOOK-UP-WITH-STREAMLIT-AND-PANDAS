@@ -26,7 +26,7 @@ streamlit run main.py
 #### Dashboard Example: 
 Click [Here](https://share.streamlit.io/ronald55/scrapping-news-data/main/main.py) to view the demo
 <p float="left">
-  <img src="./components/img/image_1.png" width="100" />
-    <img src="./components/img/image_2.png" width="100" />
-<img src="./components/img/image_3.png" width="100" />
+  <img src="./components/img/image_1.png" width="200" />
+    <img src="./components/img/image_2.png" width="200" />
+<img src="./components/img/image_3.png" width="200" />
 </p>
